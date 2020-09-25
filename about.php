@@ -33,8 +33,7 @@ require 'includes/header.php'
             <div class="card">
                 <img src="images/george.jpg">
                 <div class="container">
-                    <h2>Lead 
-                      Designer</h2>
+                    <h2>Lead Designer</h2>
                     <p>George Washington</p>
                     <p>Email: GWashington@gmail.com</p>
                 </div>
